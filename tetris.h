@@ -391,7 +391,3 @@ void recommendedPlay();
 void DrawRecom();
 void DrawRecommend(int y, int x, int blockID, int blockRotate);
 #endif
-
-//meaningless typo
-//meaningless typo2
-//meaningless typo3
